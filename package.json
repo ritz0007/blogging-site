@@ -9,8 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express-fileupload": "^1.2.1",
-    "express.js": "^1.0.0",
-    "nodemon": "^2.0.12"
+    "express-fileupload": "^1.5.1",
+    "express.js": "^4.21.2",
+    "nodemon": "^3.1.9"
   }
 }
